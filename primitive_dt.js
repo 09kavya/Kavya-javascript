@@ -17,4 +17,8 @@ let d=null;
 let e=undefined;
 
 // bigint
-let f=10000000000;
+let f=10000000000n ;
+
+
+// bigint
+let g =Symbol(uid)
